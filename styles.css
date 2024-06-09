@@ -41,6 +41,6 @@ footer {
 
 }
 
-button {
-  align-items: center;
+.button {
+  text-align: center;
   }
